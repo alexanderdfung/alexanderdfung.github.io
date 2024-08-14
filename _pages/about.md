@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Assistant at MIT Brain and Cognitive Sciences
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: alex_profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Alex 👋. I work as a research assistant in [Ev Fedorenko](https://www.evlab.mit.edu/about-ev)'s lab at MIT, combining fMRI and computational tools to understand the neural basis of language.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I will be applying to PhD programs this fall! Going forward, my research interest is broadly in theoretical neuroscience, in particular computational principles of memory:
+- How do our brains efficiently encode a lifetime of experiences such that relevant knowledge can be instantly recalled with the right trigger?
+- Why are human representations seemingly more noise-invariant than machine representations?
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I seek to gain insight on these questions with mathematical modeling of neural dynamics.
+
+Before coming to EvLab, I was an undergrad at UC Berkeley studying EECS and Molecular & Cellular Biology. I first fell in love with research while working in the computational biology space with [Yun Song](https://people.eecs.berkeley.edu/~yss/). I thank [Kris Bouchard](https://biosciences.lbl.gov/profiles/kristofer-e-bouchard/) for teaching me how to study the brain, and how to make proper figures. Ev has been amazingly supportive and I cannot imagine a better mentor to have prepared me for a career in neuroscience.

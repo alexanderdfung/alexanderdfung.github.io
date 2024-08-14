@@ -32,3 +32,23 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"song":
+  - firstname: ["Y.", "Yun S."]
+    url: https://people.eecs.berkeley.edu/~yss/
+
+"koehl":
+  - firstname: ["A.", "Antoine"]
+    url: https://scholar.google.com/citations?user=xbmy_1oAAAAJ
+
+"jagota":
+  - firstname: ["M.", "Milind"]
+    url: https://scholar.google.com/citations?user=699V8FkAAAAJ
+
+"dudukovich":
+  - firstname: ["Rachel"]
+    url: https://scholar.google.com/citations?user=_i9KrtUAAAAJ
+
+"erdmann-pham":
+  - firstname: ["Dan D."]
+    url: https://web.stanford.edu/~erdpham/

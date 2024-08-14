@@ -6,9 +6,7 @@
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
             {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-              </span>
+              {{- site.first_name -}}
             {% endif %}
             {% if site.middle_name %}
               {{- site.middle_name -}}
@@ -108,6 +106,12 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          <!-- CV -->
+          <li class="nav-item">
+            <button id="search-toggle" class="cv-button" onclick="window.open('/assets/pdf/fung_cv.pdf')">
+              <span class="nav-link">CV</span>
+            </button>
+          </li>
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
