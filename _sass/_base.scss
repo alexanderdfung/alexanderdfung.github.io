@@ -23,6 +23,11 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+hr-dark {
+  display: block;
+  border-top: 1px solid black;
+}
+
 table {
   td,
   th {
@@ -381,9 +386,11 @@ ul.task-list input[type="checkbox"] {
 
 .social {
   text-align: center;
+  position: absolute;
+  bottom: 4%;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.7rem;
 
     a {
       i::before {
