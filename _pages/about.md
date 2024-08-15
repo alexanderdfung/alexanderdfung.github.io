@@ -25,8 +25,8 @@ Hi, I'm Alex 👋 I work as a research assistant in [Ev Fedorenko](https://www.e
 I seek to address these questions with mathematical modeling of neural dynamics. -->
 
 I will be applying to PhD programs this fall! Going forward, my research interest is broadly in theoretical neuroscience, in particular computational principles of memory. How do our brains efficiently encode a lifetime of experiences such that relevant knowledge can be accurately recalled with the right trigger? I seek to address this question on multiple levels:
-- **Representational**: how can we characterize the memory efficiency, noise-invariance, and connectedness of human and machine representations?
-- **Dynamic**: how do representations change over the timescales of learning?
+- **Representational**: How can we characterize the memory efficiency, noise-invariance, and connectedness of human and machine representations?
+- **Dynamic**: How do representations change over the timescales of learning?
 
 In order to address these questions, I plan to leverage techniques across the spectrum of modern neuroscience: computational analysis of neural networks, mathematical modeling of neural dynamics, and the goal-directed experimentation necessary to get high-quality data. 
 
