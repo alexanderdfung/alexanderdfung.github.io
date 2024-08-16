@@ -18,10 +18,10 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Alex 👋 I work as a research assistant in [Ev Fedorenko](https://www.evlab.mit.edu/about-ev)'s lab at MIT, combining fMRI and computational tools to understand the neural basis of language.
 
-I will be applying to PhD programs this fall! I am broadly interested in **mathematical principles of the fundamental computations underlying intelligence**:
-- Memory: How do memory architectures constrain and support efficient storage and accurate retrieval of information?
-- Dynamics: How do our brains generate and utilize the low-dimensional structure observed in neural population dynamics as a substrate for inference?
-- Learning: What are the biological learning rules responsible for consolidating inferred representations into memory?
+I will be applying to PhD programs this fall! I am broadly interested in **theoretical neuroscience, in particular mathematical principles of the low-level computations underlying intelligence**:
+- **Memory**: How do memory architectures constrain and support efficient storage and accurate retrieval of information?
+- **Dynamics**: How do our brains generate and utilize the low-dimensional structure observed in neural population dynamics as a substrate for inference?
+- **Learning**: What are the biological learning rules responsible for consolidating inferences and associations into memory?
 
 <!-- Going forward, my research interest is broadly in **theoretical neuroscience, in particular computational principles of memory**. How do our brains efficiently encode a lifetime of experiences such that relevant knowledge can be accurately recalled with the right trigger? I seek to address this question on multiple levels:
 - Representational: How can we characterize the memory efficiency, noise-invariance, and connectedness of human and machine representations?
