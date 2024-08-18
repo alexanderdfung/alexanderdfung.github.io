@@ -20,7 +20,7 @@ Hi, I'm Alex 👋 I work as a research assistant in [Ev Fedorenko](https://www.e
 
 I will be applying to PhD programs this fall! I am broadly interested in **theoretical neuroscience**, in particular **mathematical principles of low-level neural computations**. I would like to model biological data at the mechanistic level, addressing questions like:
 - What kinds of **learning rules** and **memory architectures** might support efficient storage and accurate retrieval of information over the timecourses of learning?
-- Which loss functions are responsible for the **low-dimensional structure** observed in neural population dynamics?
+- Which **low-dimensional geometric and topological structures** underlie neural population dynamics, and what can this tell us about the **loss functions** responsible for them?
 
 To answer these questions, I plan to leverage techniques across the spectrum of modern neuroscience: computational analysis of neural networks, mathematical modeling of neural dynamics, and goal-directed experimentation.
 
