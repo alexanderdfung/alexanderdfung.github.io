@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Alex 👋 I work as a research assistant in [Ev Fedorenko](https://www.evlab.mit.edu/about-ev)'s lab at MIT, combining fMRI and computational tools to understand the neural basis of language.
 
-I will be applying to PhD programs this fall! I am broadly interested in **theoretical neuroscience**, in particular **mathematical principles of low-level neural computations**. I would like to model biological data at the mechanistic level, addressing questions like:
+I will be applying to PhD programs this fall! I am broadly interested in **theoretical neuroscience**, in particular **mathematical principles of computation in neural circuits**. I would like to model biological data at the mechanistic level, addressing questions like:
 - Which learning rules and memory architectures might support efficient storage and accurate retrieval of information over the timecourses of learning?
 - What kinds of low-dimensional geometric and topological structures underlie neural population dynamics, and what can this tell us about the loss functions responsible for them?
 
