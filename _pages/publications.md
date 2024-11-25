@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Kean, H.\*, **Fung, A.**\*, Pramod, R.T., Chomik-Morales, J., Kanwisher, N., Fedorenko, E. (2024). Intuitive Physical Reasoning Is Not Mediated by Linguistic nor Domain-general Abstract Representations. In Prep. <!---\[[TBD](/assets/pdf/kean2024physlang.pdf)\]-->
+Kean, H., **Fung, A.**, Pramod, R.T., Chomik-Morales, J., Kanwisher, N., Fedorenko, E. (2024). Intuitive Physical Reasoning Is Not Mediated by Linguistic nor Domain-General Abstract Representations. Under Review. \[[Paper](/assets/pdf/kean2024physlang.pdf)\]
 
 Kean, H., **Fung, A.**\*, Jaggers, P.\*, Benn, Y., Tenenbaum, J., Piantadosi, S., Varley, R., Fedorenko, E. (2024). The Language of Thought is not Language: Evidence from Formal Logical Reasoning. Under Review. \[[Extended Abstract](/assets/pdf/kean2024lotlang_extendedabstract.pdf)\] \[[Poster](/assets/pdf/kean2024lotlang_poster.pdf)\]
 
