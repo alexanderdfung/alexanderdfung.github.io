@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assistant at MIT Brain and Cognitive Sciences
+subtitle: Research Assistant @ MIT Brain and Cognitive Sciences
 
 profile:
   align: right
