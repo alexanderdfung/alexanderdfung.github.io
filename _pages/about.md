@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Alex 👋 I work as a research assistant in [Ev Fedorenko](https://www.evlab.mit.edu/about-ev)'s lab at MIT, combining fMRI and computational tools to understand the neural basis of language.
 
-I will be applying to PhD programs this fall! I am broadly interested in the intersection of statistics, machine learning, and systems neuroscience. I would like to model biological and artificial neural circuits at the mechanistic level, addressing questions like:
+I am applying to PhD programs this fall! I am interested in the intersection of statistics, machine learning, and systems neuroscience. Concretely, I seek **mathematical principles of computation in biological and artificial neural circuits**. I aim to develop mechanistically interpretable frameworks, addressing questions like:
 - How can we extract the low-dimensional geometric and topological structures underlying neural population dynamics from high-dimensional data?
 - Which learning rules and memory architectures might support efficient storage and accurate retrieval of information over the timecourses of learning?
 
