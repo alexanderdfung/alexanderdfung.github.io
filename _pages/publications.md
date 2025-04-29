@@ -14,7 +14,7 @@ Preprints
 3. **Fung, A.**\*, Koehl, A.\*, Jagota, M., Song, Y. (2022). The Impact of Protein Dynamics on Residue-Residue Coevolution and Contact Prediction. Preprint. \[[Paper](/assets/pdf/fung2022dynamiccontacts.pdf)\]
 
 Papers
-1. Kean, H., **Fung, A.**, Pramod, R.T., Chomik-Morales, J., Kanwisher, N., Fedorenko, E. (2024). Intuitive Physical Reasoning Is Not Mediated by Linguistic nor Domain-General Abstract Representations. *Neuropsychologia.* \[[Paper](/assets/pdf/kean2024physlang.pdf)\]
+1. Kean, H., **Fung, A.**, Pramod, R.T., Chomik-Morales, J., Kanwisher, N., Fedorenko, E. (2025). Intuitive Physical Reasoning Is Not Mediated by Linguistic nor Domain-General Abstract Representations. *Neuropsychologia.* \[[Paper](/assets/pdf/kean2025physlang.pdf)\]
 2. Dudukovich, R., Gormley, D., Kancharla, S., Wagner, K., Short, R., Brooks, D., Fantl, J., Janardhanan, S., **Fung, A.** (2022). Towards the Development of a Multi-Agent Cognitive Networking System for the Lunar Environment. *IEEE Journal of Radio Frequency Identification*. \[[Paper](/assets/pdf/dudukovich2022cognitivenetworking.pdf)\]
 3. Koehl, A.\*, Jagota, M.\*, Erdmann-Pham, D.\*, **Fung, A.**, Song, Y. (2021). Transferability of Geometric Patterns from Protein Self-Interactions to Protein-Ligand Interactions. *Pacific Symposium on Biocomputing*. \[[Paper](/assets/pdf/koehl2022vdms.pdf)\]
 
