@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 Preprints
-1. Kean, H., **Fung, A.**\*, Jaggers, P.\*, Benn, Y., Tenenbaum, J., Piantadosi, S., Varley, R., Fedorenko, E. (2024). Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language. Under Review. \[[Extended Abstract](/assets/pdf/kean2025loglang.pdf)\] \[[Poster](/assets/pdf/kean2024lotlang_poster.pdf)\]
+1. Kean, H., **Fung, A.**\*, Jaggers, P.\*, Benn, Y., Tenenbaum, J., Piantadosi, S., Varley, R., Fedorenko, E. (2024). Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language. Under Review. \[[Paper](/assets/pdf/kean2025loglang.pdf)\] \[[Poster](/assets/pdf/kean2024lotlang_poster.pdf)\]
 2. **Fung, A.**\*, Koehl, A.\*, Jagota, M., Song, Y. (2022). The Impact of Protein Dynamics on Residue-Residue Coevolution and Contact Prediction. Preprint. \[[Paper](/assets/pdf/fung2022dynamiccontacts.pdf)\]
 
 Papers
