@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Alex 👋 I am a research assistant in [Ramon Nogueira](https://neurobiology.uchicago.edu/faculty/ramon-nogueira-manas)'s lab at UChicago, where I bridge machine learning and geometric approaches to neural data analysis.
 
-My interests lie at the intersection of statistics, machine learning, and systems neuroscience. Broadly, **I seek to uncover the underlying structure of neural representations that support behavior**. I aim to develop mechanistically interpretable frameworks to address questions like:
+My interests lie at the intersection of statistics, machine learning, and systems neuroscience. Broadly, **I seek to uncover the structure of neural representations that support behavior**, developing mechanistically interpretable frameworks to address questions like:
 - How can we extract meaningful structure from noisy, high-dimensional neural population data?
 - What types of inputs and connectivities might give rise to the stretched, curved, and shifted geometries observed in neural circuits?
 
