@@ -1,0 +1,20 @@
+/* _sass/_custom.scss */
+.publist {
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: outside;
+}
+
+.publist li {
+  margin-bottom: 1em; /* space between entries */
+  text-indent: -1.5em; /* hanging indent */
+  margin-left: 1.5em;
+}
+
+.publist li a {
+  text-decoration: none;
+}
+
+.publist li a:hover {
+  text-decoration: underline;
+}
