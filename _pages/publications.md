@@ -10,8 +10,9 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 #### Preprints
-1. Kean, H., **Fung, A.**\*, Jaggers, P.\*, Benn, Y., Tenenbaum, J., Piantadosi, S., Varley, R., Fedorenko, E. (2024). Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language. In revision at *PNAS*. \[[Paper](/assets/pdf/kean2025loglang.pdf)\] \[[Poster](/assets/pdf/kean2024lotlang_poster.pdf)\]
-2. **Fung, A.**\*, Koehl, A.\*, Jagota, M., Song, Y. (2022). The Impact of Protein Dynamics on Residue-Residue Coevolution and Contact Prediction. Preprint. \[[Paper](/assets/pdf/fung2022dynamiccontacts.pdf)\]
+1. Kean, H., **Fung, A.**, Ohams, C., Chen, J., Rule, J., Tenenbaum, J., Piantadosi, S., Fedorenko, E. (2025). A Human Brain Network Specialized for Abstract Formal Reasoning. Under review. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.21.683445v1)\]
+2. Kean, H., **Fung, A.**\*, Jaggers, P.\*, Benn, Y., Tenenbaum, J., Piantadosi, S., Varley, R., Fedorenko, E. (2024). Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language. In revision at *PNAS*. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.26.666979v1)\]
+3. **Fung, A.**\*, Koehl, A.\*, Jagota, M., Song, Y. (2022). The Impact of Protein Dynamics on Residue-Residue Coevolution and Contact Prediction. Preprint. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.16.512436v1)\]
 
 ---
 
@@ -25,7 +26,6 @@ nav_order: 2
 
 #### In Preparation
 1. **Fung, A.**, Hosseini, E., Tuckute, G., Casto, C., Fedorenko, E. Stimulus Repetitions Lead to More Reliable Neural Responses in fMRI Language Studies. In prep.
-2. Kean, H., **Fung, A.**, Ohams, C., Chen, J., Rule, J., Tenenbaum, J., Piantadosi, S., Fedorenko, E. A Human Brain Network Specialized for Abstract Formal Reasoning. In prep.
 
 ---
 
