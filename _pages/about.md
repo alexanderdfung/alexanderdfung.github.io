@@ -24,6 +24,6 @@ I aim to answer questions such as:
 - How do neural circuit properties like connectivity and activation functions shape population dynamics and behavior?
 - How can we extract latent structure from noisy, high-dimensional neural data?
 
-Before coming to UChicago, I was a research assistant with [Ev Fedorenko](https://www.evlab.mit.edu/) at MIT Brain and Cognitive Sciences studying language and reasoning in brains and large language models \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.21.683445v1)\] \[[PNAS](https://www.biorxiv.org/content/10.1101/2025.07.26.666979v1)\] \[[CCN2024](https://alexanderdfung.github.io/assets/pdf/fung2024wordorder.pdf)\].
+Before coming to UChicago, I was a research assistant with [Ev Fedorenko](https://www.evlab.mit.edu/) at MIT Brain and Cognitive Sciences studying language and reasoning in brains and large language models \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.21.683445v1)\] \[[PNAS](https://www.pnas.org/doi/10.1073/pnas.2520095123)\] \[[CCN2024](https://alexanderdfung.github.io/assets/pdf/fung2024wordorder.pdf)\].
 I first fell in love with research as an undergrad at UC Berkeley studying EECS and Molecular & Cellular Biology, where I worked on the protein folding problem with [Yun S. Song](https://people.eecs.berkeley.edu/~yss/) \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.16.512436v1)\] \[[PSB2022](https://pubmed.ncbi.nlm.nih.gov/34890133/)\].
 My research journey thus far has only been possible because of the wonderful mentorship I've received.

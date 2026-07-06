@@ -17,7 +17,7 @@ nav_order: 2
 ---
 
 #### Peer-Reviewed Publications
-1. Kean, H., **Fung, A.**\*, Jaggers, P.\*, Benn, Y., Tenenbaum, J., Piantadosi, S., Varley, R., Fedorenko, E. (2026). Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language. *PNAS*, in press. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.26.666979v1)\]
+1. Kean, H., **Fung, A.**\*, Jaggers, P.\*, Benn, Y., Tenenbaum, J., Piantadosi, S., Varley, R., Fedorenko, E. (2026). Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language. *PNAS*. \[[bioRxiv](/assets/pdf/kean2026lotlang.pdf)\]
 2. Ryskina, M., Tuckute, G., **Fung, A.**, Malkin, A., Fedorenko, E. (2025). Language Models Align With Brain Regions That Represent Concepts Across Modalities. *COLM 2025* (**Spotlight presentation**). \[[Paper](/assets/pdf/ryskina2025semcon.pdf)\]
 3. Kean, H., **Fung, A.**, Pramod, R.T., Chomik-Morales, J., Kanwisher, N., Fedorenko, E. (2025). Intuitive Physical Reasoning Is Not Mediated by Linguistic nor Domain-General Abstract Representations. *Neuropsychologia.* \[[Paper](/assets/pdf/kean2025physlang.pdf)\]
 4. Dudukovich, R., Gormley, D., Kancharla, S., Wagner, K., Short, R., Brooks, D., Fantl, J., Janardhanan, S., **Fung, A.** (2022). Towards the Development of a Multi-Agent Cognitive Networking System for the Lunar Environment. *IEEE Journal of Radio Frequency Identification*. \[[Paper](/assets/pdf/dudukovich2022cognitivenetworking.pdf)\]
