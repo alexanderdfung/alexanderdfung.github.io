@@ -18,7 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Alex 👋 I analyze large neural datasets.
 
-I'm a predoctoral researcher interested in the structure of neural representations underlying behavior. I use statistical tools and artificial neural network models to understand how factors like internal states, task statistics, and connectivity shape neural population activity and dynamics.
+I'm a predoctoral researcher interested in the structure of neural representations underlying behavior.
+I analyze high-dimensional data from brains and artificial neural network models to understand how factors like internal states, task statistics, and connectivity shape neural population activity and dynamics.
 
 I'm applying to PhD programs in the 2026–2027 cycle! I'm looking for systems neuroscience labs that combine experimental and computational approaches.
 
