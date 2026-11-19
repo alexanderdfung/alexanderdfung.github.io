@@ -32,7 +32,7 @@ nav_order: 2
 ---
 
 #### Posters
-1. **Fung, A.**\*, Robles-Razzaq, I.\*, Nogueira, R. (2025). The Geometry of Internal States of Behavior Across the Cortical Hierarchy of the Mouse Brain. Under review at *COSYNE 2026*.
+1. **Fung, A.**\*, Robles-Razzaq, I.\*, Nogueira, R. (2025). The Geometry of Internal States of Behavior Across the Cortical Hierarchy of the Mouse Brain. Submitted to *COSYNE 2026*.
 2. Xu, R., Takahashi, A., Bush, A., Sisterson, N., Walton, A., Hutchinson, S., Neudorfer, C., Kammen, A., Kokkinos, V., Jhingan, N., **Fung, A.**, Marvi, A., Valenzuela, C., Kean, H., Pramod, R., McMahon, E., Yee, S., Kirsch, J., Kanwisher, N., Fedorenko, E., Desimone, R., Richardson, M. (2025). Mapping the Mesoscale Human Cortical Connectome. Poster presentation, to be presented at the *Annual Meeting of the Society for Neuroscience (SfN)*.
 3. **Fung, A.**\*, Zhuang, C.\*, Piantadosi, S., Andreas, J., Fedorenko, E. (2024). Word-Order Error Detection Helps Data-Efficient Language Models Learn Syntax. Poster presentation, *Cognitive Computational Neuroscience (CCN) 2024.* \[[Paper](/assets/pdf/fung2024wordorder.pdf)\] \[[Poster](/assets/pdf/fung2024wordorder_poster.pdf)\]
 4. Kean, H., **Fung, A.**, Rule, J., Tenenbaum, J., Piantadosi, S., Fedorenko, E. (2024). Deductive and Inductive Processing Dissociate in the Human Brain. Poster presentation, *Cognitive Computational Neuroscience (CCN) 2024.* \[[Paper](/assets/pdf/kean2024deductiveinductive.pdf)\] \[[Poster](/assets/pdf/kean2024deductiveinductive_poster.pdf)\]
